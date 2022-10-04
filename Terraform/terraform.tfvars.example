@@ -6,7 +6,7 @@ resource-group       = "resourcegroupname"
 ip-whitelist         = ["1.2.3.4/32", "8.8.8.0/24"]
 
 # Optional (defaults are shown)
-timezone             = "W. Europe Standard Time"
+timezone             = "Eastern Standard Time"
 domain-name-label    = "cloudlabs"
 domain-dns-name      = "cloud.labs"
 windows-user         = "labadmin"
